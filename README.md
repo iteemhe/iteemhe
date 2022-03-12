@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteemhe&count_private=true&icon=truei&theme=material-palenight)](https://github.com/iteemhe)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteemhe&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/iteemhe)
+
+[![iteemhe/lobster](https://github-readme-stats.vercel.app/api/pin/?username=iteemhe&repo=lobster&show_owner=true&theme=material-palenight)](https://github.com/iteemhe/lobster)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iteemhe&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/iteemhe)
 
 <!--
 **iteemhe/iteemhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
