@@ -2,7 +2,7 @@
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteemhe&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/iteemhe)
 
-[![iteemhe/lobster](https://github-readme-stats.vercel.app/api/pin/?username=iteemhe&repo=lobster&show_owner=true&theme=material-palenight)](https://github.com/iteemhe/lobster)
+[![iteemhe/lobster](https://github-readme-stats.vercel.app/api/pin/?username=iteemhe&repo=cses-solutions&show_owner=true&theme=material-palenight)](https://github.com/iteemhe/lobster)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iteemhe&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/iteemhe)
 
