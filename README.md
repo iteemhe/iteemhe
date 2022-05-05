@@ -8,7 +8,7 @@
 
 - 🌱    I’m currently learning ***Modern C++, Rust, Kotlin, Haskell***
 - 🤔    I’m looking for help with finding internships and research opportunities
-- 💬    Ask me about how to ace EECS280
+- 💬    Ask me about how to ace EECS {280, 281, 370 ...}
 - 📫    How to reach me: [My LinkedIn](https://www.linkedin.com/in/hejiahao/)
 - 😄    Pronouns: He/Him/His
 - ⚡    Fun fact: I am not fun
